@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PhilipBrown\\Nacho\\": "src"
+            "PhilipBrown\\Nacho\\": "src/PhilipBrown"
         }
     }
 }

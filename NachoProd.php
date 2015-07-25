@@ -1,14 +1,11 @@
 <?php
-require_once ("vendor/autoload.php");
 
-use PhilipBrown\Nacho\Nacho;
+//use PhilipBrown\Nacho\Nacho;
 
-echo "Hola";
-$asnp = new NachoProd();
-//$np -> testNachHasCheese();
-echo "<br> Adios 1";
+//require_once ("vendor/autoload.php");
 
- 
+
+
 class NachoProd {
 	private $nacho = null;
 	
@@ -26,3 +23,7 @@ class NachoProd {
  
 }
 
+echo "Hola";
+$asnp = new NachoProd();
+//$np -> testNachHasCheese();
+echo "<br> Adios 1";
